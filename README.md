@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<details>
+  <summary>shortcut</summary>
+  
+- [.gitignore](https://www.toptal.com/developers/gitignore?templates=vim,emacs,linux,macos,windows,visualstudiocode)
+
+</details>
